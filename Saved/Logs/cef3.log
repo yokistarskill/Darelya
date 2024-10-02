@@ -1,0 +1,4 @@
+[0822/030234.122:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0822/030432.144:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0822/035616.461:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0822/035619.500:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
